@@ -10,3 +10,7 @@ public void Mul()
 {
 	
 }
+public void Div()
+{
+	
+}
