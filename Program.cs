@@ -14,3 +14,8 @@ public void Div()
 {
 	
 }
+
+public void MOD()
+{
+	
+}
