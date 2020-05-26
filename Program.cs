@@ -6,3 +6,7 @@ public void Sub()
 {
 	
 }
+public void Mul()
+{
+	
+}
