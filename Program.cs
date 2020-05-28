@@ -19,3 +19,7 @@ public void MOD()
 {
 	
 }
+public void NAN()
+{
+	
+}
